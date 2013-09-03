@@ -1,0 +1,10 @@
+name: "Alessandro Frigeri, 2013"
+description: "The Lab!"
+
+url: "afrigeri.github.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
